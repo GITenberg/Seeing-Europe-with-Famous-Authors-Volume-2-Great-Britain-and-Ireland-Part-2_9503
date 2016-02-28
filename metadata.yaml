@@ -1,0 +1,26 @@
+_repo: Seeing-Europe-with-Famous-Authors-Volume-2-Great-Britain-and-Ireland-Part-2_9503
+contributor:
+  creator:
+    editor:
+      agent_name: Halsey, Francis W. (Francis Whiting)
+      birthdate: 1851
+      deathdate: 1919
+      gutenberg_agent_id: '3081'
+      url: http://www.gutenberg.org/2009/agents/3081
+      wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'Ireland -- Description and travel'
+title: "Seeing Europe with Famous Authors, Volume 2\r\nGreat Britain and Ireland,\
+  \ Part 2"
+url: http://www.gutenberg.org/ebooks/9503
